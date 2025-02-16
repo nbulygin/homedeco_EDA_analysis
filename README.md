@@ -12,7 +12,7 @@ Analyzed sales and marketing performance for a home decoration e-commerce busine
 - Power BI for data visualization
 
 ## Data Structure
-HomeDeco database structure as seen below consists of four tables: daily_clients, monthly_sales, daily_web_traffic and dim_date.
+HomeDeco database structure as seen below consists of six tables: ads, dimDate, web_traffic, orders, quotes, customers.
 
 ![alt text](./outputs/png/image-1.png)
 
