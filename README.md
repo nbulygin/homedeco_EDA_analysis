@@ -49,9 +49,12 @@ Prior to beginning the analysis, data was cleaned and transformed to align with 
   - Strong relationship between traffic and sales (R² = 32% at 2-month lag)
 
 ## Statistical Analysis
-* **Time Series Decomposition**: Moderate seasonality (strength = 0.51)
-* **Customer Journey**: 2-month optimal lag between traffic and sales (p < 0.001)
+![alt text](./outputs/figures/Distribution_Days_Between_Purchases.png)
 * **Purchase Behavior**: Significant difference between one-time and repeat customers (p < 0.0001)
+* **Customer Journey**: 2-month optimal lag between traffic and sales (p < 0.001)
+
+![alt text](./outputs/figures/SARIMA_model_visitas_web.png)
+* **Time Series Decomposition**: Moderate seasonality (strength = 0.51)
 * **Forecasting**: Achieved <15% MAPE in 6-month predictions
 
 ## Business Impact
@@ -61,6 +64,8 @@ Prior to beginning the analysis, data was cleaned and transformed to align with 
 2. **Customer Retention**: Focus on converting 87.1% one-time customers
 3. **Price Strategy**: Optimize medium price range ($117-$138)
 4. **Traffic Quality**: Target 32% explained variance in sales
+
+![alt text](./outputs/png/HomeDeco_Sales-1.png)
 
 ### Key Achievements
 * Identified $1.1K-$15K+ monthly revenue potential by converting one-time buyers (2-10% of 87.1% non-recurring customer base) to repeat customers who purchase 2.79x more
