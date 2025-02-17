@@ -67,6 +67,7 @@ Prior to beginning the analysis, data was cleaned and transformed to align with 
 4. **Traffic Quality**: Target 32% explained variance in sales
 
 ![alt text](./outputs/png/HomeDeco_Sales-1.png)
+https://app.powerbi.com/view?r=eyJrIjoiNDI4YzI5NGUtMmY2NC00M2NlLTg4NTItYWNlMDlkYzExNjYwIiwidCI6ImRjOWI5NzEzLTU2ZjAtNGU1My1iYmQzLTUzYWU4NTNiZTliOSIsImMiOjR9
 
 ### Key Achievements
 * Identified $1.1K-$15K+ monthly revenue potential by converting one-time buyers (2-10% of 87.1% non-recurring customer base) to repeat customers who purchase 2.79x more
